@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "djangoapp"
+		},
+		{
+			"path": "env"
+		},
+		{
+			"path": "reactapp"
+		}
+	]
+}
